@@ -63,8 +63,6 @@
   <img src="https://raw.githubusercontent.com/cerquestiven-boop/cerquestiven-boop/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
 </p>
 
-> ⚠️ Esta animación requiere un pequeño paso extra de configuración — te explico abajo cómo activarla.
-
 <br>
 
 ## 🤝 Conectemos
