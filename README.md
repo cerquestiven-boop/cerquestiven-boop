@@ -43,16 +43,13 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=cerquestiven-boop&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1a2e&title_color=b084f5&icon_color=b084f5&text_color=c9c9c9"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cerquestiven-boop&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1a2e&title_color=b084f5&text_color=c9c9c9"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=cerquestiven-boop&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cerquestiven-boop&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cerquestiven-boop&theme=tokyonight&hide_border=true&background=1a1a2e&ring=b084f5&fire=6a0dad&currStreakLabel=b084f5"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=cerquestiven-boop&theme=discord&no-frame=true&column=4&margin-w=8&margin-h=8"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cerquestiven-boop&theme=tokyonight&hide_border=true" />
 </p>
 
 <br>
